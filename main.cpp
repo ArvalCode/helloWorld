@@ -5,7 +5,7 @@
 int main() 
 {
     std::cout << "age: \n";
-
+  // leo forehead
     int age;
     std::cin >> age;
 
